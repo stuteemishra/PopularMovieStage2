@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+
+    <string name="error_message">
+        An error has occurred. Please check network connection.
+    </string>
+
+    <string name="action_popular">Most Popular</string>
+
+    <string name="action_highest_rated">Top rated</string>
+
+    <string name="action_favorite">Favorites</string>
+
+    <string name="action_date">Release Date:</string>
+
+    <string name="action_rating">Rating:</string>
+
+    <string name="action_title">Title:</string>
+
+    <string name="action_movie_id">Movie ID:</string>
+
+    <string name="action_overview">Overview:</string>
+
+    <string name="action_mark_favorite">Mark As Favorite</string>
+
+    <string name="action_mark_unfavorite">Un-Favorite</string>
+
+    <string name="action_trailer">Trailer:</string>
+
+    <string name="action_review">Reviews:</string>
+
+    <string name="action_no_review">No Review.</string>
+
+    <string name="action_no_trailer">No Trailer.</string>
+
+    <string name="action_play_trailer">Play Trailer</string>
+
+
+</resources>
